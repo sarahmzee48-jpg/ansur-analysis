@@ -10,7 +10,6 @@ This project analyzes the ANSUR II dataset to explore anthropometric and demogra
 ## Contents
 - Project report (Word document)
 - Stata do-file
-- (Optional) Markdown output
 
 ## Methods
 Data cleaning, descriptive statistics, stratified analysis, correlation analysis, and BMI calculations were conducted using Stata.
